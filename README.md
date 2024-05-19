@@ -79,13 +79,3 @@ https://koyaaarr.medium.com/stable-diffusion-quickstart-withwsl2-and-rtx3070-e8f
 | ---- | ---- | ---- | ---- | ---- |
 | ![Image 11](trajectory/52/seed_801716_00000.png) | ![Image 12](trajectory/52/seed_801717_00001.png) | ![Image 13](trajectory/52/seed_801718_00002.png) | ![Image 14](trajectory/52/seed_801719_00003.png) | ![Image 15](trajectory/52/seed_801720_00004.png) |
 | ![Image 16](trajectory/52/seed_801721_00005.png) | ![Image 17](trajectory/52/seed_801722_00006.png) | ![Image 18](trajectory/52/seed_801723_00007.png) | ![Image 19](trajectory/52/seed_801724_00008.png) | ![Image 20](trajectory/52/seed_801725_00009.png) |
-
-𝘛𝘳𝘢𝘫𝘦𝘤𝘵𝘰𝘳𝘺 52
-
-
-# Exemplia Gratia
-
-Download Source Images - 400 MB
-
-🧲Magnet Link:  <br>
-http://tinyurl.com/94a2v8sd
