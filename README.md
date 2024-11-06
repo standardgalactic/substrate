@@ -2,6 +2,15 @@
 
 𝘘𝘶𝘢𝘳𝘵𝘪𝘤 𝘙𝘪𝘯𝘨 𝘍𝘪𝘦𝘭𝘥𝘴
 
+# Liminal Space (𝘞𝘰𝘳𝘬 𝘐𝘯 𝘗𝘳𝘰𝘨𝘳𝘦𝘴𝘴)
+
+![](https://raw.githubusercontent.com/standardgalactic/substrate/refs/heads/main/liminal-space/seed_801724_00008.png)
+![](liminal-space-01.jpg)
+![](liminal-space-02.jpg)
+![](liminal-space-03.jpg)
+![](liminal-space-04.jpg)
+![](liminal-space-05.jpg)
+
 # Fractal Teleology
 
 𝘈𝘯𝘪𝘮𝘰 𝘗𝘰𝘵𝘦𝘯𝘴, 𝘡𝘦𝘭𝘶𝘴 𝘐𝘯𝘤𝘰𝘳𝘳𝘶𝘱𝘵𝘶𝘴
